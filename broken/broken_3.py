@@ -1,4 +1,5 @@
 # broken_3.py — Fix the TypeError
+
 #
 # Run this file: python broken/broken_3.py
 # Read the traceback. Then fix the bug and run again until it exits with no errors.
