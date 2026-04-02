@@ -27,3 +27,12 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+
+## When to use each
+
+- Jupyter:
+Use Jupyter Notebook when you need an interactive environment for coding
+
+- Scripts:
+Scripts are best used when you want reliable, repeatable, and production-ready code execution
